@@ -1,5 +1,6 @@
 out
 dist
+temp_auto_push.bat
 node_modules
-.vscode-test/
 *.vsix
+.gitignore
